@@ -15,6 +15,12 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchammas23&hide=ruby" />
 </a>
+<br />
+<br />
+
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gchammas23"/>
+ </a>
 
 ## Social media
 You can find me on the below social media platforms: (Click on one of them to get redirected to my profile)
