@@ -1,7 +1,7 @@
 # Small intro
 - 👋 Hi, I’m @gchammas23
 - 👀 I’m interested in programming, basketball and cryptocurrency
-- 🌱 I’m currently learning javascript for nodejs development
+- 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on any open source project that i can contribute to
 - 📫 You can reach me by sending me an email on my address gabrielchammas23@gmail.com
 
@@ -11,7 +11,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchammas23" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchammas23&hide=ruby" />
 </a>
 
 # Social media
