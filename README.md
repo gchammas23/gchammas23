@@ -9,14 +9,14 @@
 
 ## Github stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gchammas23&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gchammas23&show_icons=true" alt="Gabriel's Github stats"/>
 </a>
 
 <br />
 <br />
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchammas23&hide=ruby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchammas23&hide=ruby" alt="Gabriel's most used languages"/>
 </a>
 
 <br />
@@ -25,6 +25,14 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gchammas23"/>
 </a>
+
+<br />
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@gchammas23&layout=compact" alt="Gabriel's Wakatime Stats" />
+ </a>
+
 
 ## Social media
 You can find me on the below social media platforms: (Click on one of them to get redirected to my profile)
