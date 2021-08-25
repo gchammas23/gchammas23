@@ -8,6 +8,8 @@
 - 📫 You can reach me by sending me an email on my address gabrielchammas23@gmail.com
 
 ## Github stats
+![Views counter](https://komarev.com/ghpvc/?username=gchammas23&color=brightgreen)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gchammas23&show_icons=true" alt="Gabriel's Github stats"/>
 </a>
