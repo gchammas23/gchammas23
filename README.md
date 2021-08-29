@@ -10,6 +10,9 @@
 ## Github stats
 ![Views counter](https://komarev.com/ghpvc/?username=gchammas23&color=brightgreen)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gchammas23)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![Metrics](https://github.com/gchammas23/gchammas23/blob/main/github-metrics.svg)
 
 
