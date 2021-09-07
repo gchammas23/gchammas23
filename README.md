@@ -51,3 +51,8 @@ You can find me on the below social media platforms: (Click on one of them to ge
 [2]:https://www.facebook.com/gabriel.chammas.1/
 [3]:https://www.instagram.com/gabychammas23/
 [4]:https://twitter.com/Gabrielc233
+
+## More places to find me
+Find me on the below platforms too! <br>
+
+[![CodePen](https://user-images.githubusercontent.com/69366211/132351945-d8679203-cfd9-43cd-92d4-996b1a4dda4d.png)](https://codepen.io/gchammas23)
