@@ -56,3 +56,4 @@ You can find me on the below social media platforms: (Click on one of them to ge
 Find me on the below platforms too! <br>
 
 [![CodePen](https://user-images.githubusercontent.com/69366211/132351945-d8679203-cfd9-43cd-92d4-996b1a4dda4d.png)](https://codepen.io/gchammas23)
+[![Dev](https://user-images.githubusercontent.com/69366211/154862157-3910dfcc-e2be-445d-b25f-fbeb0cc3c1a0.png)](https://dev.to/gchammas23)
