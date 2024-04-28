@@ -5,7 +5,7 @@
 - 👀 I’m interested in programming, basketball and cryptocurrency
 - 🌱 I’m currently learning to create responsive websites to strengthen my frontend skills
 - 💞️ I’m looking to collaborate on any open source project that i can contribute to
-- 📫 You can reach me by sending me an email on my address gabrielchammas23@gmail.com
+- 📫 You can reach me by sending me an email on my address gabychammas23@gmail.com
 
 ## Github stats
 ![Views counter](https://komarev.com/ghpvc/?username=gchammas23&color=brightgreen)
