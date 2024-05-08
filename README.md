@@ -2,8 +2,8 @@
 
 ## Small intro
 - 👋 Hi, my name is Gabriel and i go by @gchammas23 on github
-- 👀 I’m interested in programming, basketball and cryptocurrency
-- 🌱 I’m currently learning to create responsive websites to strengthen my frontend skills
+- 👀 I’m interested in programming, basketball and artificial intelligence
+- 🌱 I’m currently learning to create useful applications and products to strengthen my frontend skills
 - 💞️ I’m looking to collaborate on any open source project that i can contribute to
 - 📫 You can reach me by sending me an email on my address gabychammas23@gmail.com
 
